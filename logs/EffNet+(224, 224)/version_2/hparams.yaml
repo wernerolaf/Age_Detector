@@ -1,0 +1,7 @@
+batch_size: 32
+data_dir: data/
+img_size: !!python/tuple
+- 224
+- 224
+num_workers: 6
+pin_memory: false
